@@ -1,0 +1,16 @@
+# fart-togethe-trainer default config
+process:
+  exe: "FartTogethe.exe"
+  auto_attach: true
+
+hotkeys:
+  toggle_infinite_fart: "F1"
+  toggle_fart_speed: "F2"
+  toggle_ghost_fart: "F3"
+
+ui:
+  theme: "dark"
+  confirm_on_exit: true
+
+logging:
+  verbose: false
