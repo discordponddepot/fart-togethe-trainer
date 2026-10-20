@@ -1,0 +1,10 @@
+# fart-togethe-trainer runtime deps
+pywin32==306; sys_platform == "win32"
+pymem==1.13.0; sys_platform == "win32"
+keyboard==0.13.5
+pynput==1.7.6
+PySide6==6.7.0
+requests==2.31.0
+pydantic==2.6.4
+loguru==0.7.2
+psutil==5.9.8
