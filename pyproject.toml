@@ -1,0 +1,14 @@
+[project]
+name = "fart-togethe-trainer"
+version = "0.6.3"
+description = "Hobbyist trainer for Fart Togethe — infinite fart meter, fart speed, ghost fart"
+requires-python = ">=3.11"
+authors = [{ name = "fart-togethe-trainer contributors" }]
+
+[tool.ruff]
+line-length = 100
+target-version = "py311"
+
+[tool.pytest.ini_options]
+testpaths = ["tests"]
+</br>
